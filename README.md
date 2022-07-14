@@ -7,7 +7,7 @@
 > The [`1.0` branch](https://github.com/casperjs/casperjs/tree/1.0) is now obsolete. Please note that
 >- it is only recommended if you need to keep old production tests running that could do with the now **unmaintained PhantomJS 1.9**
 >- 1.0 tests unfortunately have to be run manually using the `casperjs selftest` command
-> 
+> asdad
 > **Note that all versions up to and including 1.1-beta3 do not support PhantomJS 2.0 and newer.**
 
 The complete documentation for the current releases is **hosted on [docs.casperjs.org](http://docs.casperjs.org/).**
